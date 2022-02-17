@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxaragonc
-- 👀 I’m interested in weather-tech!
+- �:cloud: I’m interested in weather-tech!
 - 🌱 I’m currently studying geoinformatics
 - 💞️ I’m looking to collaborate on open source science
 - 📫 How to reach me: @maxaragon on twitter or by email: maxaragon7@gmail.com
