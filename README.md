@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxaragonc
-- �:cloud: I’m interested in weather-tech!
-- 🌱 I’m currently studying geoinformatics
-- 💞️ I’m looking to collaborate on open source science
+- :partly_sunny: I’m interested in weather-tech!
+- :earth_americas: I’m currently studying geoinformatics
+- :sparkles: I’m looking to collaborate on open source science
 - 📫 How to reach me: @maxaragon on twitter or by email: maxaragon7@gmail.com
 
 <!---
